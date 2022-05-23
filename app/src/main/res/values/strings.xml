@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="textoButtonGuardar">Guardar</string>
+    <string name="textoButtonRecycler">Listado</string>
+
+    <string name="hintCedula">Ingrese su número de cedula</string>
+    <string name="hintNombres">Ingrese su Nombre</string>
+    <string name="hintApellidos">Ingrese su Apellido</string>
+</resources>
